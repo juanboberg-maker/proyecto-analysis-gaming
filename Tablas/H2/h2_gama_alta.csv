@@ -1,0 +1,14 @@
+﻿subcategory,price_tier,brand,n_products,avg_review_count,avg_rating,pct_top_10,median_price,avg_price
+Cascos,alta,Logitech,4,39.0,,100.0,202490.0,186240.0
+Mandos,alta,Microsoft,1,780.0,,100.0,179990.0,179990.0
+Mandos,alta,Nintendo,1,780.0,,100.0,87990.0,87990.0
+Mandos,alta,Sony,3,780.0,,100.0,79990.0,79990.0
+Monitores,alta,AOC,1,943.0,,100.0,139990.0,139990.0
+Monitores,alta,Acer,1,943.0,,100.0,129990.0,129990.0
+Monitores,alta,PcCom,2,943.0,,100.0,172490.0,172490.0
+PC,alta,Lenovo,1,4.0,,0.0,22490.0,22490.0
+PC,alta,PcCom,3,409.3333333333333,,66.66666666666666,32990.0,625423.3333333334
+Ratones,alta,Logitech,2,5591.0,,100.0,139990.0,139990.0
+Ratones,alta,Razer,2,5591.0,,100.0,134990.0,134990.0
+Teclados,alta,Newskill,2,414.0,,100.0,79940.0,79940.0
+Teclados,alta,Razer,3,414.0,,100.0,99990.0,109990.0
