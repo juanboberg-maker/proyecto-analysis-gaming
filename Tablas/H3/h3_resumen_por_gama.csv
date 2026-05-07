@@ -1,0 +1,4 @@
+﻿Gama,N_con_descuento,N_sin_descuento,Pct_con_descuento,Rating_con_desc,Rating_sin_desc,Diff_Rating,Reviews_con_desc,Reviews_sin_desc,Diff_Reviews
+BAJA,119,28,81.0,4.55,4.343,0.208,1756,290,1465
+MEDIA,52,6,89.7,4.563,4.667,-0.103,991,737,254
+ALTA,22,4,84.6,4.677,4.85,-0.173,788,222,566
