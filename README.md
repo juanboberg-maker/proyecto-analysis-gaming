@@ -434,3 +434,17 @@ Promociones estratégicas: PC Componentes usa descuentos en productos de alta ro
 Gama baja diferente: En productos económicos, descuentos hacen productos más accesibles → más ventas → más reviews positivas.
 
 Gama alta parcial: Solo en gama alta/media hay indicios de que descuentos señalan productos menos exitosos (rating -0.173), pero siguen siendo más populares.
+
+# Conclusiones 
+Conclusiones
+El análisis del catálogo gaming de PC Componentes muestra que la popularidad de un producto no depende de un solo factor, sino de la combinación entre precio, marca y estrategia comercial. En conjunto, los datos indican que el comportamiento del consumidor no siempre sigue una lógica puramente basada en la calidad percibida del producto.
+
+La primera hipótesis se valida de forma parcial, porque los productos más populares sí presentan mejores valoraciones medias que el resto, pero este patrón se concentra sobre todo en la gama baja. Esto sugiere que, cuando el precio es accesible, los productos con más opiniones también tienden a ser mejor valorados, mientras que en gamas media y alta esa relación pierde fuerza.
+
+La segunda hipótesis se valida de forma clara. La marca tiene más impacto en la popularidad que la valoración media, ya que las marcas más presentes entre los productos más populares no coinciden con las marcas con mejor rating. En otras palabras, el reconocimiento y la confianza de marca pesan más que la puntuación media a la hora de generar volumen de opiniones.
+
+La tercera hipótesis se rechaza. Lejos de indicar baja calidad o baja demanda, los descuentos aparecen asociados a productos más populares y, en términos generales, también a mejores valoraciones. Esto apunta a que los descuentos en este catálogo funcionan como una herramienta comercial para impulsar productos con alta rotación, y no como una señal de liquidación de stock poco exitoso.
+
+En resumen, el estudio refleja tres ideas principales: en la gama baja la popularidad sí suele ir acompañada de mejores valoraciones; la marca actúa como un factor decisivo para explicar el volumen de opiniones; y los descuentos, en lugar de perjudicar la percepción del producto, parecen reforzar su visibilidad y su capacidad de venta.
+
+Como conclusión final, se puede decir que en este mercado el éxito de un producto gaming está más relacionado con la fuerza de marca y la estrategia promocional que con la valoración media por sí sola. Ese es probablemente el hallazgo más relevante del análisis.
