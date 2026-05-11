@@ -1,4 +1,4 @@
-# Proyecto: Análisis de hardware gaming en e‑commerce
+# Proyecto: Análisis de hardware gaming en e‑commerce 
 ## 1. Descripción del proyecto
 Proyecto individual de análisis de datos centrado en hardware gaming nuevo (no reacondicionado) vendido online.
 El objetivo es analizar cómo influyen las reseñas, la marca, el precio (segmentado en gamas) y los descuentos en la popularidad de productos de varias subcategorías de gaming en un e‑commerce español (PC Componentes) y compararlo con un dataset externo de Kaggle sobre ventas y valoraciones de productos gaming/electrónica.
@@ -194,7 +194,7 @@ Análisis y visualización final.
 
 Esquema SQL (scripts de creación de tablas y consultas clave).
 
-Presentación (~7 minutos) explicando:
+Presentación (~7 minutos) explicando:https://canva.link/lq2f44fky1dfj1a
 
 Contexto y fuentes de datos.
 
